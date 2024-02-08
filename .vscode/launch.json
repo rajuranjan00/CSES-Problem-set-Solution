@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Raju Ranjan Yadav/Desktop/CSES-SOLUTION",
-      "program": "c:/Users/Raju Ranjan Yadav/Desktop/CSES-SOLUTION/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
